@@ -1,6 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently studying software engineering<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>fdg
-
+About Me
+🔭 Currently building automation tools and practical developer projects
+🤖 Created CampusFlow, a Playwright-powered college automation assistant
+🌱 Learning Machine Learning, Java, and advanced Python
+💻 Interested in Software Engineering, Browser Automation, and AI systems
+🔧 Comfortable with Git, GitHub, HTML, CSS, JavaScript, and Python
+🎯 Looking for Software Engineering Internship opportunities
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreekripa.tech@gmail.com) 
